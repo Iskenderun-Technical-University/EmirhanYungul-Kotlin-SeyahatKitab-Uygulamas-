@@ -1,7 +1,13 @@
 # Kotlin-SeyahatKitab-Uygulamas-
 donem-projesi-Emirhanyungul created by GitHub Classroom
 
-uygulamanın genel olarak amacı android goggle maps api öğrenmek konum izni recyclerview antrenmanı galeri izni haritada yer işaretleme tam konum alma konum işaretleme ve bunları sql ile kaydetmek üzerinedir kaydederken her ismi alma sonradan silme gibi özellikleri pratik etmek 
+uygulamanın genel olarak amacı android goggle maps api öğrenmek konum izni recyclerview antrenmanı galeri izni haritada yer işaretleme tam konum alma konum işaretleme ve bunları sql ile kaydetmek üzerinedir kaydederken her ismi alma sonradan silme gibi özellikleri pratik etmek özellikleri maddesel olarak şöyledir
+
+
+1-Seyahat Yerlerinin Kaydedilmesi: Kullanıcılar, ziyaret ettikleri veya ziyaret etmek istedikleri seyahat noktalarını uygulama üzerinden kaydedebilirler. Bu yerler, uygulamanın Room veritabanında depolanır.
+
+2-Harita Üzerinde Yer İşaretleri: Kullanıcıların kaydettikleri seyahat noktaları, Google Haritalar API'si kullanılarak interaktif bir harita üzerinde işaretlenir. Bu sayede kullanıcılar, gezdikleri yerleri görsel olarak görüntüleyebilir ve konumlarını kolaylıkla hatırlayabilirler.
+
 
 
 bu uygulamayı yüklerken githubdan büyük sıkıntılar yasadım bu nedenle rar olarak atmak zorunda kaldım ama siz uygulamanın son halini apk olarak (android telefonunuza) indirebileceksiniz 
